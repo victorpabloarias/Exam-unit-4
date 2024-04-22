@@ -1,0 +1,11 @@
+C:\Users\Tony\source\repos\ExampleWeatherApp\ExampleWeatherApp\bin\Debug\ExampleWeatherApp.exe.config
+C:\Users\Tony\source\repos\ExampleWeatherApp\ExampleWeatherApp\bin\Debug\ExampleWeatherApp.exe
+C:\Users\Tony\source\repos\ExampleWeatherApp\ExampleWeatherApp\bin\Debug\ExampleWeatherApp.pdb
+C:\Users\Tony\source\repos\ExampleWeatherApp\ExampleWeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tony\source\repos\ExampleWeatherApp\ExampleWeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tony\source\repos\ExampleWeatherApp\ExampleWeatherApp\obj\Debug\ExampleWeatherApp.csproj.AssemblyReference.cache
+C:\Users\Tony\source\repos\ExampleWeatherApp\ExampleWeatherApp\obj\Debug\ExampleWeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Tony\source\repos\ExampleWeatherApp\ExampleWeatherApp\obj\Debug\ExampleWeatherApp.csproj.CopyComplete
+C:\Users\Tony\source\repos\ExampleWeatherApp\ExampleWeatherApp\obj\Debug\ExampleWeatherApp.exe
+C:\Users\Tony\source\repos\ExampleWeatherApp\ExampleWeatherApp\obj\Debug\ExampleWeatherApp.pdb
+C:\Users\Tony\source\repos\ExampleWeatherApp\ExampleWeatherApp\bin\Debug\RandomUserAgent.dll
